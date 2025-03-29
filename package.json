@@ -1,0 +1,20 @@
+{
+  "name": "makale-olusturucu",
+  "version": "1.0.0",
+  "description": "Makale oluşturucu uygulaması",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsdom": "^26.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
